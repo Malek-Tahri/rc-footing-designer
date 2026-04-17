@@ -1,0 +1,6 @@
+[project]
+name = "rc-footing-designer"
+version = "0.1.0"
+description = "Isolated footing design according to ACI 318"
+authors = [{name = "Malek Tahri"}]
+dependencies = ["numpy", "matplotlib"]
