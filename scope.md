@@ -5,9 +5,7 @@ The project aims to implement the full set of calculations required for isolated
 
 **Soil Pressure and Contact Conditions**
 - Elastic pressure distribution
-- Biaxial bending with eccentric loading
-- Detection of uplift and partial soil contact
-- Iterative neutral axis solution for large eccentricity cases
+- Analysis of isolated rectangular footings with large bi-axial eccentricity
 
 **Geotechnical Verification**
 - Bearing capacity verification
@@ -22,10 +20,13 @@ The project aims to implement the full set of calculations required for isolated
 - Required reinforcement in top and bottom layers
 - Minimum reinforcement requirements
 
-**Quantities**
-- Concrete volume
-- Formwork area
-- Reinforcement quantities
+## Reports
+    Calculation Notes
+    Soil pressure's plots
+    Quantities
+        - Concrete volume
+        - Formwork area
+        - Reinforcement quantities
 
 These calculations define the intended engineering scope of the project.
 
